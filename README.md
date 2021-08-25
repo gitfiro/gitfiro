@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gitfiro
-- 👀 I’m interested in Web Design and INfo Tech
+- 👀 I’m interested in Web Design and Info Tech
 - 🌱 I’m currently learning Info Tech Sys: specialized in cloud computing 
 - 📫 How to reach me twitter @oromtichaaa
 
