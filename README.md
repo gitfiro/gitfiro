@@ -3,14 +3,13 @@
 href="https://www.linkedin.com/in/ramadan5"/>Cloud Computing/Cybersecurity Passionate</a>
 
 <h2>👨‍💻 My Projects:</h2>
-- 🔭 I’m currently working on Settingup AD on Windows server 2022
-
+- <b>🔭 I’m currently working on Windows server 2022 Project</>
+- 🔭 I’m currently working on ...
 
 - <b>Python Script</b>
   - 🔭 I’m currently working on ... <i>Some Python scripts</i> 
   - 🌱 I’m currently learning ... CompTIA Security+ 
   -   Practical Ethical Hacking - The Complete Course from TCM Security  
-
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -22,7 +21,6 @@ href="https://www.linkedin.com/in/ramadan5"/>Cloud Computing/Cybersecurity Passi
 [instagram]: https://www.instagram.com/_rammee/
 [linkedin]: https://linkedin.com/in/ramadan5
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` ([this file](https://github.com/gitfiro/gitfiro)) appears on your GitHub profile.
+
 
  
