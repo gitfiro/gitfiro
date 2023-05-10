@@ -9,17 +9,13 @@ href="https://www.linkedin.com/in/ramadan5"/>Cloud Computing/Cybersecurity Passi
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 
 - <b>Python Script</b>
-    🔭 I’m currently working on ... Python script to automate “updating and upgrading” kali linux System
+    🔭 I’m currently working on ... Few Python scripts 
 - 🌱 I’m currently learning ... <a href="https://www.comptia.org/certifications/security"/>CompTIA Security+ i</a>
--  ...<a href="[https://www.linkedin.com/in/ramadan5](https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course)"/>Practical Ethical Hacking - The Complete Course</a>
+-  ... <a href="https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course"/>Practical Ethical Hacking - The Complete Course</a>
 
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-
-
-<h2>📺 Popular YouTube Videos</h2>
-
 
 
 <h2> 🤳 Connect with me:</h2>
