@@ -3,20 +3,23 @@
 href="https://www.linkedin.com/in/ramadan5"/>Cloud Computing/Cybersecurity Passionate</a>
 
 <h2>👨‍💻 Windows Server Projects:</h2>
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 
-<!---
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/gitfiro/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/gitfiro/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/gitfiro/ADPS)
-  - [FIM (File Integrity Monitor)](https://github.com/gitfiro/PowerShell-Integrity-FIM)
+- <b>Python Script</b>
+    🔭 I’m currently working on ... Python script to automate “updating and upgrading” kali linux System
+- 🌱 I’m currently learning ... <a href="https://www.comptia.org/certifications/security"/>CompTIA Security+ i</a>
+-  ...<a href="[https://www.linkedin.com/in/ramadan5](https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course)"/>Practical Ethical Hacking - The Complete Course</a>
+
+  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
+  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 
 
-    <b>Python Script</b>
+<h2>📺 Popular YouTube Videos</h2>
 
-
-
-  - Put script repo here
-<---
 
 
 <h2> 🤳 Connect with me:</h2>
