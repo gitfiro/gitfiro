@@ -8,12 +8,8 @@ href="https://www.linkedin.com/in/ramadan5"/>Cloud Computing/Cybersecurity Passi
 
 - <b>Python Script</b>
 - 🔭 I’m currently working on ... <i>Some Python scripts</i> 
-- 🌱 I’m currently learning ... <a href="https://www.comptia.org/certifications/security"/>CompTIA Security+ </a>
--  AND <a href="https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course"/>Practical Ethical Hacking - The Complete Course</a>
-
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+- 🌱 I’m currently learning ... CompTIA Security+ 
+-   Practical Ethical Hacking - The Complete Course from TCM Security  
 
 
 <h2> 🤳 Connect with me:</h2>
