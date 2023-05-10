@@ -3,8 +3,8 @@
 href="https://www.linkedin.com/in/ramadan5"/>Cloud Computing/Cybersecurity Passionate</a>
 
 <h2>👨‍💻 My Projects:</h2>
+
 - <b>🔭 I’m currently working on Windows server 2022 Project</>
-- 🔭 I’m currently working on ...
 
 - <b>Python Script</b>
   - 🔭 I’m currently working on ... <i>Some Python scripts</i> 
