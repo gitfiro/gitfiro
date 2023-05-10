@@ -3,13 +3,11 @@
 href="https://www.linkedin.com/in/ramadan5"/>Cloud Computing/Cybersecurity Passionate</a>
 
 <h2>👨‍💻 Windows Server Projects:</h2>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+- 🔭 I’m currently working on Settingup AD on Windows server 2022
+
 
 - <b>Python Script</b>
-    🔭 I’m currently working on ... Few Python scripts 
+- 🔭 I’m currently working on ... Few Python scripts 
 - 🌱 I’m currently learning ... <a href="https://www.comptia.org/certifications/security"/>CompTIA Security+ i</a>
 -  ... <a href="https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course"/>Practical Ethical Hacking - The Complete Course</a>
 
