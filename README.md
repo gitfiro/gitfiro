@@ -4,14 +4,12 @@ href="https://www.linkedin.com/in/ramadan5"/>Cloud Computing/Cybersecurity Passi
 
 <h2>👨‍💻 My Projects:</h2>
  
- - <b>AWS Cloud Project (AlgoExpert)</b>
-  - [Serverless Image Recognition application](https://github.com/gitfiro/ImageRecognitionFunction.git)
+ - <b>AWS Cloud Project</b>
+    - [Serverless Image Recognition application](https://github.com/gitfiro/ImageRecognitionFunction.git)
 
 - <b>Python project</b>
   - In progress 
-
   - In progress 
-
  
 <h2> 🤳 Connect with me:</h2>
 
