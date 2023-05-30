@@ -5,7 +5,7 @@ href="https://www.linkedin.com/in/ramadan5"/>Cloud Computing/Cybersecurity Passi
 <h2>👨‍💻 My Projects:</h2>
 
 - <b>🔭 I’m currently working on Windows server 2023 Project</b>
-   - href="https://github.com/gitfiro/ImageRecognitionFunction.git>ImageRecognitionFunction</a>
+   - <a href="https://github.com/gitfiro/ImageRecognitionFunction.git/>ImageRecognitionFunction</a>
 
   - <b>Python Script</b>
   - 🔭 I’m currently working on ... <i>Some Python scripts</i> 
