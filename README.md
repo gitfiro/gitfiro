@@ -3,10 +3,13 @@
 href="https://www.linkedin.com/in/ramadan5"/>Cloud Computing/Cybersecurity Passionate</a>
 
 <h2>👨‍💻 My Projects:</h2>
+   - <b>🔭Cloud Computing </b>
+   - <a href="https://github.com/gitfiro/ImageRecognitionFunction.git">ImageRecognitionFunction</a>
+
 
 - <b>🔭 I’m currently working on Windows server 2023 Project</b>
-   - <a href="https://github.com/gitfiro/ImageRecognitionFunction.git/>ImageRecognitionFunction</a>
-
+   - In Progress...
+   - 
   - <b>Python Script</b>
   - 🔭 I’m currently working on ... <i>Some Python scripts</i> 
   - 🌱 I’m currently learning ... CompTIA Security+ 
