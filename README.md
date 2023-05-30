@@ -3,14 +3,16 @@
 href="https://www.linkedin.com/in/ramadan5"/>Cloud Computing/Cybersecurity Passionate</a>
 
 <h2>👨‍💻 My Projects:</h2>
-   - <b>🔭Cloud Project </b>
-   -<a href="https://github.com/gitfiro/ImageRecognitionFunction.git"> ImageRecognitionFunction</a>
-   - 
-  - <b>Python Script</b>
-  - 🔭 I’m currently working on ... <i>Some Python scripts</i> 
-  - 🌱 I’m currently learning ... CompTIA Security+ 
-  -   Practical Ethical Hacking - The Complete Course from TCM Security  
+ 
+ - <b>AWS Cloud Project (AlgoExpert)</b>
+  - [Serverless Image Recognition application](https://github.com/gitfiro/ImageRecognitionFunction.git)
 
+- <b>Python project</b>
+  - In progress 
+
+  - In progress 
+
+ 
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="RamadanMohamed | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
