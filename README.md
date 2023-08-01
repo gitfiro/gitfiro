@@ -8,7 +8,8 @@ href="https://www.linkedin.com/in/ramadan5"/>Cloud Computing/Cybersecurity Passi
     - [Serverless Image Recognition application](https://github.com/gitfiro/ImageRecognitionFunction.git)
 
 - <b>Python project</b>
-  - In progress 
+  - [Convert IP to Binary ](https://github.com/gitfiro/Convert_IP_to_Binary.git)
+
   - In progress 
  
 <h2> 🤳 Connect with me:</h2>
