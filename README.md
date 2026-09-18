@@ -1,79 +1,93 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,50:7F5AF0,100:2CB67D&height=180&section=header&text=Ramadan%20Musa&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,50:7F5AF0,100:2CB67D&height=180&section=header&text=RAMADAN%20MUSA&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-### 👋 Builder. Developer. Experimenter.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+AI+for+Afaan+Oromoo;Turning+ideas+into+working+software;Exploring+LLMs+%26+NLP;Building+knowledge+%26+language+technology;Always+learning.+Always+building." />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+AI+for+Afaan+Oromoo;Creating+software+that+people+can+use;Exploring+LLMs+%26+NLP;Turning+ideas+into+working+projects;Always+learning+something+new..." />
+<br><br>
 
-<br>
+### 🧭 CURRENT MISSION
 
-<a href="https://github.com/gitfiro">
-<img src="https://img.shields.io/github/followers/gitfiro?label=Followers&style=for-the-badge&logo=github"/>
-</a>
-<img src="https://komarev.com/ghpvc/?username=gitfiro&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/badge/🧠%20AI-36BCF7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🗣️%20AFAAN%20OROMOO-2CB67D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📚%20KNOWLEDGE-7F5AF0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🚀%20SOFTWARE-FF6B6B?style=for-the-badge"/>
+
+<br><br>
+
+**AI + Language + Knowledge + Software**
 
 </div>
+
+---
+
+## 👋 About Me
+
+I'm a developer who likes to **build, experiment, and learn by doing**.
+
+My interests move across:
+
+`💻 Software` · `🤖 AI` · `🗣️ Language` · `📚 Knowledge` · `☁️ Cloud`
+
+I'm especially interested in building useful technology around **Afaan Oromoo, AI, and language technology**.
 
 ---
 
 <div align="center">
 
-## 🌍 What I'm About
-
-**💻 Software**   **🤖 AI**   **🗣️ Languages**   **📚 Knowledge**   **☁️ Cloud**
-
-> **I build things, break things, learn how they work, and build them better.**
+## ⚡ WHAT'S IN THE LAB?
 
 </div>
-
----
-
-## ⚡ My Current Lab
 
 <table>
 <tr>
 
 <td align="center" width="50%">
 
-### 🟢 Bilisummaa Academy
+## 🟢 Bilisummaa Academy
 
-<img src="https://img.shields.io/badge/AFaan%20Oromoo-00A86B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI-7F5AF0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AFaan%20Oromoo-00A86B?style=flat-square"/>
+<img src="https://img.shields.io/badge/KNOWLEDGE-7F5AF0?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI-36BCF7?style=flat-square"/>
 
-A knowledge and learning platform for **Afaan Oromoo**.
+<br><br>
+
+**Afaan Oromoo Knowledge & Learning Platform**
 
 🌍 Language
-📚 Knowledge
+📚 Learning
+🔎 Knowledge
 🤖 AI
-🔎 Discovery
 
 <br>
 
 <a href="https://oromotoenglish.com/">
-<img src="https://img.shields.io/badge/🌐%20Website-Visit-2CB67D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐%20EXPLORE-2CB67D?style=for-the-badge"/>
 </a>
 
 </td>
 
 <td align="center" width="50%">
 
-### 🟣 Oromo AI
+## 🟣 Oromo AI
 
-<img src="https://img.shields.io/badge/LLM-FF6B6B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLP-7F5AF0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-7F5AF0?style=flat-square"/>
+<img src="https://img.shields.io/badge/LLM-FF6B6B?style=flat-square"/>
+<img src="https://img.shields.io/badge/RESEARCH-36BCF7?style=flat-square"/>
 
-A dedicated project exploring **AI and LLM technology for Afaan Oromoo**.
+<br><br>
 
-🧠 Language Models
-📖 Datasets
+**AI / LLM technology for Afaan Oromoo**
+
+🧠 LLMs
+📖 Data
 🔤 NLP
 🚀 Research
 
 <br>
 
 <a href="https://github.com/gitfiro/Oromo-ai">
-<img src="https://img.shields.io/badge/💻%20Repository-Explore-58A6FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💻%20EXPLORE%20PROJECT-7F5AF0?style=for-the-badge"/>
 </a>
 
 </td>
@@ -85,7 +99,7 @@ A dedicated project exploring **AI and LLM technology for Afaan Oromoo**.
 
 <div align="center">
 
-## 🧠 Languages & Tools
+## 🧰 MY TOOLBOX
 
 <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,express,firebase,gcp,aws,git,github,vscode&perline=6" />
 
@@ -93,56 +107,78 @@ A dedicated project exploring **AI and LLM technology for Afaan Oromoo**.
 
 ---
 
-## 🔬 Currently Experimenting With
+## 🔬 CURRENTLY EXPLORING
 
-```text
-╭──────────────────────────────────────────────╮
-│                                              │
-│   🤖 LLMs              ████████████░░  90%   │
-│   🗣️ Afaan Oromoo NLP  █████████████░  95%   │
-│   📚 Language Data     ███████████░░░  85%   │
-│   ☁️ Cloud             ██████████░░░░  80%   │
-│   💻 Software          ██████████████  100%  │
-│                                              │
-╰──────────────────────────────────────────────╯
-```
+<table>
+<tr>
+<td>🤖 <b>Large Language Models</b></td>
+<td>🗣️ <b>Afaan Oromoo NLP</b></td>
+</tr>
+<tr>
+<td>📚 <b>Language Datasets</b></td>
+<td>🧠 <b>AI Systems</b></td>
+</tr>
+<tr>
+<td>☁️ <b>Cloud Infrastructure</b></td>
+<td>💻 <b>Modern Software</b></td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-## 🐍 The Contribution Snake
+## 🧪 CURRENT BUILD
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
+<br>
+
+### 🧠 Afaan Oromoo AI
+
+**Building → Training → Testing → Improving**
+
+<br>
+
+`DATA` → `NLP` → `MODEL` → `EVALUATION` → `AI`
+
+<br><br>
+
+> **The goal isn't just to build another model.**
+> **It's to build useful AI for Afaan Oromoo.**
 
 </div>
 
 ---
 
-<div align="center">
+## 🚀 SELECTED PROJECTS
 
-## 🚀 The Stack Keeps Growing
-
-<img src="https://github-readme-stats.vercel.app/api?username=gitfiro&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitfiro&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000" height="165"/>
-
-</div>
+| Project                                                                                | Description                                |
+| -------------------------------------------------------------------------------------- | ------------------------------------------ |
+| 🟢 [Bilisummaa Academy](https://github.com/gitfiro/Bilisummaa-Academy-Specialized-NLP) | Afaan Oromoo knowledge & learning platform |
+| 🟣 [Oromo AI](https://github.com/gitfiro/Oromo-ai)                                     | Afaan Oromoo AI / LLM project              |
+| 🔵 [AWS Image Recognition](https://github.com/gitfiro/ImageRecognitionFunction)        | Serverless image recognition               |
+| 🟠 [Convert IP to Binary](https://github.com/gitfiro/Convert_IP_to_Binary)             | Python learning project                    |
 
 ---
 
 <div align="center">
 
-### 🌱 Build → Experiment → Learn → Repeat
+## 🌍 BUILD SOMETHING USEFUL
+
+**Ideas are everywhere.
+Building is the fun part.**
 
 <br>
 
 <a href="https://github.com/gitfiro">
-<img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-My%20Projects-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://www.linkedin.com/in/ramadan5">
-<img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://oromotoenglish.com/">
+<img src="https://img.shields.io/badge/Bilisummaa%20Academy-Explore-2CB67D?style=for-the-badge"/>
 </a>
 
 <br><br>
