@@ -1,117 +1,152 @@
 <div align="center">
 
-# 👋 Hey, I'm Ramadan Musa
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,50:7F5AF0,100:2CB67D&height=180&section=header&text=Ramadan%20Musa&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-### 🚀 Builder • Developer • AI & Language Enthusiast
+### 👋 Builder. Developer. Experimenter.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+things+that+solve+real+problems;Exploring+AI+%26+Language+Technology;Building+for+Afaan+Oromoo;Always+learning+%26+experimenting" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+AI+for+Afaan+Oromoo;Creating+software+that+people+can+use;Exploring+LLMs+%26+NLP;Turning+ideas+into+working+projects;Always+learning+something+new..." />
 
 <br>
 
-🌍 **Afaan Oromoo**   •   🤖 **AI / LLMs**   •   💻 **Software**   •   ☁️ **Cloud**
+<a href="https://github.com/gitfiro">
+<img src="https://img.shields.io/github/followers/gitfiro?label=Followers&style=for-the-badge&logo=github"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=gitfiro&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+<div align="center">
 
-I'm a developer who enjoys **building, experimenting, and learning**.
+## 🌍 What I'm About
 
-My interests move across technology, languages, AI, cloud infrastructure, education, and entrepreneurship.
+**💻 Software**   **🤖 AI**   **🗣️ Languages**   **📚 Knowledge**   **☁️ Cloud**
 
-I don't like staying in one box — I like **creating things and figuring out how they work.**
+> **I build things, break things, learn how they work, and build them better.**
+
+</div>
 
 ---
 
-## 🚀 What I'm Building
+## ⚡ My Current Lab
 
 <table>
 <tr>
-<td width="50%">
+
+<td align="center" width="50%">
 
 ### 🟢 Bilisummaa Academy
 
-An Afaan Oromoo knowledge and learning platform combining:
+<img src="https://img.shields.io/badge/AFaan%20Oromoo-00A86B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI-7F5AF0?style=for-the-badge"/>
 
-**🌍 Language + 📚 Knowledge + 🤖 AI**
+A knowledge and learning platform for **Afaan Oromoo**.
 
-<a href="https://oromotoenglish.com/">🌐 Visit Website</a> <a href="https://github.com/gitfiro/Bilisummaa-Academy-Specialized-NLP">💻 GitHub</a>
+🌍 Language
+📚 Knowledge
+🤖 AI
+🔎 Discovery
+
+<br>
+
+<a href="https://oromotoenglish.com/">
+<img src="https://img.shields.io/badge/🌐%20Website-Visit-2CB67D?style=for-the-badge"/>
+</a>
 
 </td>
 
-<td width="50%">
+<td align="center" width="50%">
 
 ### 🟣 Oromo AI
 
-A separate project focused on building **AI / LLM technology for Afaan Oromoo**.
+<img src="https://img.shields.io/badge/LLM-FF6B6B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-7F5AF0?style=for-the-badge"/>
 
-🤖 NLP
-🧠 LLMs
-📚 Language Data
-🌍 Oromo AI
+A dedicated project exploring **AI and LLM technology for Afaan Oromoo**.
 
-<a href="https://github.com/gitfiro/Oromo-ai">💻 GitHub</a>
+🧠 Language Models
+📖 Datasets
+🔤 NLP
+🚀 Research
+
+<br>
+
+<a href="https://github.com/gitfiro/Oromo-ai">
+<img src="https://img.shields.io/badge/💻%20Repository-Explore-58A6FF?style=for-the-badge"/>
+</a>
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## 🛠️ Technologies
+<div align="center">
 
-<p align="center">
+## 🧠 Languages & Tools
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,express,firebase,gcp,aws,git,github&perline=6" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,express,firebase,gcp,aws,git,github,vscode&perline=6" />
 
-</p>
-
----
-
-## 🌱 Currently Exploring
-
-<p align="center">
-
-🤖 **LLMs**   •  
-🧠 **NLP**   •  
-🗣️ **Language Technology**   •  
-☁️ **Cloud**   •  
-📚 **Education Technology**
-
-</p>
+</div>
 
 ---
 
-## 📌 Projects
+## 🔬 Currently Experimenting With
 
-* 🟢 **[Bilisummaa Academy](https://github.com/gitfiro/Bilisummaa-Academy-Specialized-NLP)** — Afaan Oromoo knowledge & learning platform
-* 🟣 **[Oromo AI](https://github.com/gitfiro/Oromo-ai)** — Afaan Oromoo AI / LLM project
-* 🔵 **[AWS Image Recognition](https://github.com/gitfiro/ImageRecognitionFunction)** — Serverless image recognition
-* 🟠 **[Convert IP to Binary](https://github.com/gitfiro/Convert_IP_to_Binary)** — Python learning project
+```text
+╭──────────────────────────────────────────────╮
+│                                              │
+│   🤖 LLMs              ████████████░░  90%   │
+│   🗣️ Afaan Oromoo NLP  █████████████░  95%   │
+│   📚 Language Data     ███████████░░░  85%   │
+│   ☁️ Cloud             ██████████░░░░  80%   │
+│   💻 Software          ██████████████  100%  │
+│                                              │
+╰──────────────────────────────────────────────╯
+```
 
 ---
 
 <div align="center">
 
-### 💡 Build. Learn. Experiment. Share.
+## 🐍 The Contribution Snake
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 The Stack Keeps Growing
+
+<img src="https://github-readme-stats.vercel.app/api?username=gitfiro&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitfiro&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000" height="165"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌱 Build → Experiment → Learn → Repeat
 
 <br>
 
+<a href="https://github.com/gitfiro">
+<img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=for-the-badge&logo=github"/>
+</a>
+
 <a href="https://www.linkedin.com/in/ramadan5">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://www.instagram.com/_rammee/">
-<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<a href="https://twitter.com/oromtichaaa">
-<img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=gitfiro&style=flat-square&color=58A6FF" alt="Profile views" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2CB67D,50:7F5AF0,100:36BCF7&height=100&section=footer"/>
 
 </div>
