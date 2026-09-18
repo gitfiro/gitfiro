@@ -1,121 +1,117 @@
 <div align="center">
 
-<h1>Hi, I'm Ramadan 👋</h1>
+# 👋 Hey, I'm Ramadan Musa
 
-<p>
-  <strong>Builder • Developer • Language & AI Enthusiast • Lifelong Learner</strong>
-</p>
+### 🚀 Builder • Developer • AI & Language Enthusiast
 
-<p>
-  I like building things, learning across disciplines, and turning ideas into useful products.
-  My interests are broad — from software and cloud technology to AI, language, education, and web development.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+things+that+solve+real+problems;Exploring+AI+%26+Language+Technology;Building+for+Afaan+Oromoo;Always+learning+%26+experimenting" alt="Typing animation" />
 
-<p>
-  <a href="https://github.com/gitfiro">GitHub</a> •
-  <a href="https://www.linkedin.com/in/ramadan5">LinkedIn</a> •
-  <a href="https://oromotoenglish.com/">OromoToEnglish</a>
-</p>
+<br>
+
+🌍 **Afaan Oromoo**   •   🤖 **AI / LLMs**   •   💻 **Software**   •   ☁️ **Cloud**
 
 </div>
 
 ---
 
-<h2>🚀 What I'm Into</h2>
+## 🧑‍💻 About Me
 
-<ul>
-  <li><strong>AI & Language Technology</strong> — building tools and experimenting with Afaan Oromoo NLP and LLMs.</li>
-  <li><strong>Software & Web Development</strong> — creating practical websites, applications, APIs, and digital products.</li>
-  <li><strong>Cloud & Infrastructure</strong> — working with cloud platforms, deployment, and modern application infrastructure.</li>
-  <li><strong>Education & Knowledge</strong> — building technology that makes language and knowledge easier to learn and access.</li>
-  <li><strong>Languages & Linguistics</strong> — interested in how languages work, how people learn them, and how technology can support them.</li>
-  <li><strong>Entrepreneurship</strong> — turning ideas into real projects instead of leaving them as ideas.</li>
-</ul>
+I'm a developer who enjoys **building, experimenting, and learning**.
 
-<h2>🛠️ Things I Build</h2>
+My interests move across technology, languages, AI, cloud infrastructure, education, and entrepreneurship.
 
-<ul>
-  <li><strong>Language & AI projects</strong> — Afaan Oromoo translation, NLP, datasets, and AI/LLM research.</li>
-  <li><strong>Web applications</strong> — full-stack projects with modern frontend, backend, databases, and cloud services.</li>
-  <li><strong>Mobile applications</strong> — Android projects focused on useful, practical experiences.</li>
-  <li><strong>Cloud projects</strong> — AWS and cloud-based applications and infrastructure.</li>
-</ul>
+I don't like staying in one box — I like **creating things and figuring out how they work.**
 
-<h2>🌍 Featured Projects</h2>
+---
 
-<h3>📚 Bilisummaa Academy</h3>
+## 🚀 What I'm Building
 
-<p>
-  An Afaan Oromoo knowledge and learning platform focused on language, education,
-  books, culture, and AI-assisted knowledge tools.
+<table>
+<tr>
+<td width="50%">
+
+### 🟢 Bilisummaa Academy
+
+An Afaan Oromoo knowledge and learning platform combining:
+
+**🌍 Language + 📚 Knowledge + 🤖 AI**
+
+<a href="https://oromotoenglish.com/">🌐 Visit Website</a> <a href="https://github.com/gitfiro/Bilisummaa-Academy-Specialized-NLP">💻 GitHub</a>
+
+</td>
+
+<td width="50%">
+
+### 🟣 Oromo AI
+
+A separate project focused on building **AI / LLM technology for Afaan Oromoo**.
+
+🤖 NLP
+🧠 LLMs
+📚 Language Data
+🌍 Oromo AI
+
+<a href="https://github.com/gitfiro/Oromo-ai">💻 GitHub</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Technologies
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,express,firebase,gcp,aws,git,github&perline=6" />
+
 </p>
 
-<p>
-  <a href="https://oromotoenglish.com/">Visit OromoToEnglish.com</a> •
-  <a href="https://github.com/gitfiro/Bilisummaa-Academy-Specialized-NLP">View Project</a>
+---
+
+## 🌱 Currently Exploring
+
+<p align="center">
+
+🤖 **LLMs**   •  
+🧠 **NLP**   •  
+🗣️ **Language Technology**   •  
+☁️ **Cloud**   •  
+📚 **Education Technology**
+
 </p>
 
-<h3>🤖 Afaan Oromoo AI / LLM</h3>
+---
 
-<p>
-  A separate research and engineering project focused on building better AI and
-  language-model capabilities for Afaan Oromoo.
-</p>
+## 📌 Projects
 
-<p>
-  <a href="https://github.com/gitfiro/Oromo-ai">View Project</a>
-</p>
+* 🟢 **[Bilisummaa Academy](https://github.com/gitfiro/Bilisummaa-Academy-Specialized-NLP)** — Afaan Oromoo knowledge & learning platform
+* 🟣 **[Oromo AI](https://github.com/gitfiro/Oromo-ai)** — Afaan Oromoo AI / LLM project
+* 🔵 **[AWS Image Recognition](https://github.com/gitfiro/ImageRecognitionFunction)** — Serverless image recognition
+* 🟠 **[Convert IP to Binary](https://github.com/gitfiro/Convert_IP_to_Binary)** — Python learning project
 
-<h3>☁️ AWS Image Recognition</h3>
-
-<p>
-  A serverless image-recognition project exploring AWS cloud services.
-</p>
-
-<p>
-  <a href="https://github.com/gitfiro/ImageRecognitionFunction">View Project</a>
-</p>
-
-<h2>🧰 Technologies I Work With</h2>
-
-<p>
-  <code>Python</code>
-  <code>JavaScript</code>
-  <code>TypeScript</code>
-  <code>React</code>
-  <code>Node.js</code>
-  <code>Express</code>
-  <code>Firebase</code>
-  <code>Google Cloud</code>
-  <code>AWS</code>
-  <code>Git</code>
-  <code>GitHub</code>
-  <code>LLMs</code>
-  <code>NLP</code>
-</p>
-
-<h2>📖 Always Learning</h2>
-
-<p>
-  I'm not interested in being limited to one label or one technology.
-  I enjoy following curiosity, learning new disciplines, and connecting ideas
-  from different fields to build something useful.
-</p>
-
-<p>
-  <strong>Current direction:</strong> AI • Afaan Oromoo NLP • LLMs • Software Development • Cloud • Education • Language Technology
-</p>
-
-<h2>🤝 Connect With Me</h2>
-
-<p>
-  <a href="https://www.linkedin.com/in/ramadan5">LinkedIn</a> •
-  <a href="https://www.instagram.com/_rammee/">Instagram</a> •
-  <a href="https://twitter.com/oromtichaaa">X / Twitter</a>
-</p>
+---
 
 <div align="center">
 
-<p><em>Build. Learn. Experiment. Share.</em></p>
+### 💡 Build. Learn. Experiment. Share.
+
+<br>
+
+<a href="https://www.linkedin.com/in/ramadan5">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/_rammee/">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://twitter.com/oromtichaaa">
+<img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=gitfiro&style=flat-square&color=58A6FF" alt="Profile views" />
 
 </div>
